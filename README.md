@@ -36,5 +36,5 @@
 ---
 
 ### 📫 Connect With Me
-* **LinkedIn:** [linkedin.com/in/phillipndlovu](https://linkedin.com/in/phillipndlovu)
+* **LinkedIn:** https://www.linkedin.com/in/phillip-ndlovu-6a262718b
 * **Email:** ndlovujunior777@gmail.com
