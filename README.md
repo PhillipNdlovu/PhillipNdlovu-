@@ -1,1 +1,39 @@
-# PhillipNdlovu-
+# Hi there, I'm Phillip Ndlovu 👋
+
+### 👨‍💻 About Me
+* 🎓 **Education:** National Certificate (Vocational) in Information Technology & Computer Science
+* 📜 **Certifications:** CompTIA A+
+* 🎯 **Career Focus:** IT Support, Network Administration, Cloud & Systems Infrastructure
+* ⚡ **Core Strengths:** Technical troubleshooting, system maintenance, network segmentation, and user support
+
+---
+
+### 🛠️ Technical Stack & Skills
+
+* **Hardware & Support:** Computer Diagnostics, Hardware Repairs, Windows 10/11 Deployment, Peripheral Setup
+* **Networking:** Subnetting (IPv4), Inter-VLAN Routing, DHCP/DNS Administration, Wi-Fi & Firewall Security
+* **Systems Administration:** Active Directory, Group Policy Objects (GPO), Password & Access Policies
+* **Tools & OS:** Command Prompt, PowerShell, Event Viewer, Cisco Packet Tracer, Git & GitHub
+
+---
+
+### 📂 Highlighted Portfolio Projects
+
+* 🌐 **[Small Business Network Lab](https://github.com/PhillipNdlovu/small-business-network-lab)**
+  * Full network architecture design featuring VLAN segmentation, firewall access controls, IP scheme management, and guest Wi-Fi troubleshooting scenarios.
+
+* 🛠️ **[IT Support Troubleshooting Lab](https://github.com/PhillipNdlovu/it-support-troubleshooting-lab)**
+  * Scenario-based documentation covering Active Directory account lockouts, GPO updates, Windows OS repairs (`sfc`/`DISM`), and print spooler fixes.
+
+---
+
+### 📊 GitHub Activity
+![Phillip's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PhillipNdlovu&show_icons=true&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PhillipNdlovu&layout=compact&theme=dark)
+
+---
+
+### 📫 Connect With Me
+* **LinkedIn:** [linkedin.com/in/your-linkedin-profile](https://linkedin.com)
+* **Email:** ndlovujunior777@gmail.com
+* 
