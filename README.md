@@ -3,13 +3,15 @@
 ### 👨‍💻 About Me
 * 🎓 **Education:** National Certificate (Vocational) in Information Technology & Computer Science
 * 📜 **Certifications:** CompTIA A+
-* 🎯 **Career Focus:** IT Support, Network Administration, Cloud & Systems Infrastructure
-* ⚡ **Core Strengths:** Technical troubleshooting, system maintenance, network segmentation, and user support
+* 🎯 **Career Focus:** Software Development, Application Engineering, Web Development & IT Infrastructure
+* ⚡ **Core Strengths:** Full-stack troubleshooting, cross-language application development, network segmentation, and system administration
 
 ---
 
 ### 🛠️ Technical Stack & Skills
 
+* **Software & Application Development:** C#, Java, Visual Basic, Python
+* **Web Development:** HTML5, CSS3, JavaScript, Web Applications
 * **Hardware & Support:** Computer Diagnostics, Hardware Repairs, Windows 10/11 Deployment, Peripheral Setup
 * **Networking:** Subnetting (IPv4), Inter-VLAN Routing, DHCP/DNS Administration, Wi-Fi & Firewall Security
 * **Systems Administration:** Active Directory, Group Policy Objects (GPO), Password & Access Policies
@@ -36,4 +38,3 @@
 ### 📫 Connect With Me
 * **LinkedIn:** [linkedin.com/in/your-linkedin-profile](https://linkedin.com)
 * **Email:** ndlovujunior777@gmail.com
-* 
